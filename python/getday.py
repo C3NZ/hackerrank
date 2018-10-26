@@ -1,5 +1,6 @@
 '''
     Using the calendar module to get a specific date
+    More information on the problem can be found here: https://www.hackerrank.com/challenges/calendar-module/problem
 '''
 import calendar
 
